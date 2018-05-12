@@ -1,10 +1,16 @@
 _repo: Birth-of-a-Reformation-The-Life-and-Labors-of-Daniel-S-Warner_47630
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47630-h/images/cover.jpg
 creator:
   author:
     agent_name: Byers, Andrew
     gutenberg_agent_id: '44402'
     url: http://www.gutenberg.org/2009/agents/44402
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47630#Birth-of-a-Reformation-The-Life-and-Labors-of-Daniel-S-Warner
 gutenberg_issued: '2014-12-11'
 gutenberg_type: Text
 identifiers:
